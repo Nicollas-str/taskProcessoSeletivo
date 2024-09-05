@@ -8,5 +8,5 @@ void main() {
     soma = soma + k;
   }
 
-  print(soma);
+  print("O resultado de soma é $soma");
 }
